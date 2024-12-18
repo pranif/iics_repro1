@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "0GxYbt8zafNePyeDqS06ME",
+    "name" : "GCSKafkaWriter",
+    "type" : "AI_CONNECTION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "mgqsTSicjumf6S3-gt-5009830-2024-12-18T12:08:13.202Z::conn.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2024-12-18T12:09:07.181Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
